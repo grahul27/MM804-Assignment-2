@@ -31,11 +31,11 @@ Intersection has a total of vertices - 3,940
 
 ### Link to the code
 
-[](https://github.com/grahul27/MM804-Assignment-2)
+# https://github.com/grahul27/MM804-Assignment-2
 
 ### Reference to readme file
 
-[](https://github.com/grahul27/MM804-Assignment-2/blob/main/Readme.md)
+# https://github.com/grahul27/MM804-Assignment-2/blob/main/Readme.md
 
 ### Development Environment
 
