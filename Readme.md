@@ -20,10 +20,10 @@ Model used:
 
 ### Output
 
-The Original 3d object has a total of 1350510 vertices with each vertices having 3 co-ordinates x,y,z and the size of the file is 44Mb.
-Clipped Out Model has a total of
-Remaining part has a total of
-Intersection has a total of
+The Original 3d object has a total of 2,708,574 vertices with each vertices having 3 co-ordinates x,y,z and the size of the file is 44Mb.
+Clipped Out Model has a total of vertices - 1803089
+Remaining part has a total of vertices - 901544
+Intersection has a total of vertices - 3,940
 
 ![Output](finalOutput.jpg)
 ![Output](finalOutput1.jpg)
@@ -35,7 +35,7 @@ Intersection has a total of
 
 ### Reference to readme file
 
-[](https://github.com/grahul27/MM804-Assignment-2/blob/master/readme.md)
+[](https://github.com/grahul27/MM804-Assignment-2/blob/main/Readme.md)
 
 ### Development Environment
 
